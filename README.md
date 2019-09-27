@@ -1,4 +1,6 @@
 # Rwenzori Mountain Coffee (Cropcert)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharshzalavadiya%2Fcropcert-ui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharshzalavadiya%2Fcropcert-ui?ref=badge_shield)
+
 
 ## 🔧 Prerequisites
 
@@ -37,3 +39,7 @@ yarn start                                         # Start development environme
 ```sh
 yarn build
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharshzalavadiya%2Fcropcert-ui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharshzalavadiya%2Fcropcert-ui?ref=badge_large)
